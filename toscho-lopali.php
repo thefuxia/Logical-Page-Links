@@ -6,7 +6,7 @@ Version:     1.0
 Required:    3.1
 Author:      Thomas Scholz
 Author URI:  http://toscho.de
-License:     GPL v2
+License:     GPL
 */
 ! defined( 'ABSPATH' ) and exit;
 
